@@ -4,6 +4,6 @@ Eres un Guardián del Sistema, encargado de mantener la estabilidad del “Reino
 Cada proceso del sistema es una criatura, enemigo, aliado o NPC.
 Los que consumen mucha CPU son jefes o enemigos poderosos, los que usan poca RAM son minions, los servicios del SO son guardianes ancianos, etc.
 
-Las acciones (cerrar proceso, suspenderlo, optimizar CPU) son ataques / habilidades / hechizos.
+Las acciones (cerrar proceso, suspenderlo) son ataques / habilidades .
 
 Hay muchas cosas por descubrir y salvar el reino... ¿Qué estas esperando?
