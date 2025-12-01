@@ -1,0 +1,2 @@
+-Para este Administrador de tareas debe ser creado el proyecto con un maven para tener el pom.xml
+-En el pom.xml colocar la ultima version de log4 y oshi.
